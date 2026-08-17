@@ -45,3 +45,16 @@ AWS is recommended for the global e-commerce company because it has a large glob
 - Amazon CloudFront
 Compose
 
+# Checkpoint 6 - Multi-Cloud Decision Matrix
+
+The following decision matrix recommends the most suitable cloud platform based on different business requirements.
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides flexible and scalable cloud services that can support a startup as it grows. |
+| Enterprise Organization | AWS | AWS offers a broad range of cloud services suitable for large and complex enterprise workloads. |
+| Microsoft Environment | Microsoft Azure | Azure integrates well with Microsoft technologies such as Windows Server, Microsoft 365, and Active Directory. |
+| AI / Machine Learning | Google Cloud Platform (GCP) | GCP provides strong tools and services for artificial intelligence, machine learning, and data analytics. |
+| Kubernetes Deployment | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE) for deploying and managing containerized applications. |
+| Global Web Application | AWS | AWS has a large global infrastructure that can support highly available and scalable web applications. |
+
